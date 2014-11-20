@@ -13,3 +13,5 @@ $.notify('Warning Message', {type:'warning', delay:10});
 </code><br><code>
 $.notify('Error Message', {type:'error', delay:20});
 </code>
+
+<h2><a href="http://jsfiddle.net/ajai/v38puzjq/" target="_blank">Demo</a></h2>
